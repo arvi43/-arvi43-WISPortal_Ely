@@ -51,7 +51,7 @@ if(isset($_POST['txtUsername']) && isset($_POST['txtPassword']))
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<link rel="stylesheet" href="scripts/style.css" />
+<link rel="stylesheet" href="../scripts/style.css" />
 </head>
 <body>
 <br /><br /><br /><br /><br /><br />

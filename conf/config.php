@@ -9,7 +9,7 @@ define('AD_CLIENT_TITLE', 'Welcome Institute of Studies');
 
 //constant information about the database
 define('AD_DB_HOST', "localhost");
-define('AD_DB_NAME', "dbSoft806");
+define('AD_DB_NAME', "dbOnboardingStudents");
 define('AD_DB_USER', "root");
 define('AD_DB_PASSWD', "");
 
